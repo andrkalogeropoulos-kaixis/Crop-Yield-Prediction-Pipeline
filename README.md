@@ -56,6 +56,9 @@ This project focuses on **leakage-free feature engineering**, **dimensionality r
 ### Baseline Model Feature Importance
 ![Random Forest Feature Importance](images/rf_importance.png)
 
+### Final XGBoost Model Feature Importance
+![XGBoost Feature Importance](images/xgb_importance.png)
+
 > **Context:** The XGBoost model achieved an RMSE of ~2,918 kg/ha against a target standard deviation of ~19,945 kg/ha, demonstrating exceptional precision across vastly different biological crop yield scales.
 
 ---
