@@ -86,3 +86,20 @@ Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled
 * **Feature Engineering & Preprocessing:** Category Encoders (`TargetEncoder`), PCA, K-Means Clustering
 * **Explainable AI (XAI):** SHAP (`shap.TreeExplainer`)
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+## 📦 How to Run the Notebook
+
+### Option 1: Run Online (Recommended)
+You can open and execute the interactive notebook directly on Kaggle with all pre-configured execution environments:
+👉 [Open on Kaggle](https://www.kaggle.com/code/andreaskalog/global-food-production)
+
+---
+
+### Option 2: Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/andrkalogeropoulos-kaixis/Crop-Yield-Prediction-Pipeline.git](https://github.com/andrkalogeropoulos-kaixis/Crop-Yield-Prediction-Pipeline.git)
+   cd Crop-Yield-Prediction-Pipeline
