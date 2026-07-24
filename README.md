@@ -86,6 +86,7 @@ Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled
 ├── README.md                            # Project documentation
 └── requirements.txt                     # Project dependencies
 
+## 📁 Repository Structure
 
 ## 🛠️ Tech Stack & Libraries
 
@@ -94,5 +95,3 @@ Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled
 * **Feature Engineering & Preprocessing:** Category Encoders (`TargetEncoder`), PCA, K-Means Clustering
 * **Explainable AI (XAI):** SHAP (`shap.TreeExplainer`)
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-
-## 📁 Repository Structure
