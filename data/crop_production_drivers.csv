@@ -1,0 +1,673 @@
+country,region,crop_name,irrigation_index,fertilizer_use_index,mechanization_index,improved_seed_usage_percent,government_support_score,ai_agriculture_adoption_index,primary_growth_driver
+Pakistan,South Asia,Wheat,59.24,37.42,33.05,43.08,42.0,27.16,Mechanization and farm machinery
+Pakistan,South Asia,Rice,68.78,41.67,58.3,61.33,20.18,24.77,Mechanization and farm machinery
+Pakistan,South Asia,Maize,43.36,60.2,35.77,52.73,38.63,15.55,Irrigation expansion
+Pakistan,South Asia,Soybean,48.5,44.23,58.26,45.09,29.84,8.06,AI-based crop advisory adoption
+Pakistan,South Asia,Sugarcane,50.04,43.47,31.51,60.4,30.62,12.12,Fertilizer use optimization
+Pakistan,South Asia,Cotton,55.34,39.41,60.12,51.43,29.14,29.04,Mechanization and farm machinery
+Pakistan,South Asia,Potato,39.6,36.78,32.43,45.25,63.39,31.23,Better pest and disease control
+Pakistan,South Asia,Barley,56.08,44.33,54.63,48.05,40.0,24.14,Mechanization and farm machinery
+Pakistan,South Asia,Sorghum,46.46,46.34,44.22,63.41,23.73,28.45,Better pest and disease control
+Pakistan,South Asia,Millet,50.19,29.83,28.33,43.17,40.89,20.2,Precision agriculture and satellite monitoring
+Pakistan,South Asia,Pulses,48.68,52.44,38.75,50.91,43.72,17.71,Better pest and disease control
+Pakistan,South Asia,Groundnut,52.61,56.68,34.27,57.91,30.19,19.39,Climate-suitable growing conditions
+India,South Asia,Wheat,57.15,28.22,45.23,59.94,8.13,21.28,Precision agriculture and satellite monitoring
+India,South Asia,Rice,71.41,24.14,54.78,46.95,20.97,34.63,AI-based crop advisory adoption
+India,South Asia,Maize,52.47,48.52,49.09,49.83,52.49,16.21,Mechanization and farm machinery
+India,South Asia,Soybean,58.1,30.94,38.69,42.98,74.13,26.47,Government support and procurement policy
+India,South Asia,Sugarcane,42.69,23.47,43.35,46.74,39.18,7.98,Mechanization and farm machinery
+India,South Asia,Cotton,61.46,47.99,51.35,62.5,38.27,18.35,Fertilizer use optimization
+India,South Asia,Potato,54.72,47.5,58.26,49.75,38.99,21.42,Climate-suitable growing conditions
+India,South Asia,Barley,61.7,35.08,47.52,52.67,36.26,24.83,Mechanization and farm machinery
+India,South Asia,Sorghum,47.75,42.75,52.19,40.13,38.75,4.59,Expansion of harvested area
+India,South Asia,Millet,49.47,61.83,36.78,57.64,43.03,29.65,AI-based crop advisory adoption
+India,South Asia,Pulses,41.34,43.23,35.18,54.46,26.37,18.83,Climate-suitable growing conditions
+India,South Asia,Groundnut,48.92,59.69,42.69,51.59,28.16,33.47,Better pest and disease control
+Bangladesh,South Asia,Wheat,51.49,30.44,33.91,64.74,38.01,35.88,Expansion of harvested area
+Bangladesh,South Asia,Rice,46.4,55.71,43.06,52.98,30.51,18.58,Improved seed varieties
+Bangladesh,South Asia,Maize,27.88,39.78,44.26,57.57,41.38,21.49,Precision agriculture and satellite monitoring
+Bangladesh,South Asia,Soybean,48.65,32.56,40.58,44.55,30.82,32.03,Mechanization and farm machinery
+Bangladesh,South Asia,Sugarcane,52.24,34.38,48.13,54.06,49.93,21.42,Expansion of harvested area
+Bangladesh,South Asia,Cotton,55.16,34.68,50.66,55.13,12.98,23.74,Expansion of harvested area
+Bangladesh,South Asia,Potato,40.55,34.64,37.44,45.99,34.77,0.0,Expansion of harvested area
+Bangladesh,South Asia,Barley,59.9,35.84,43.55,50.98,42.16,24.83,Climate-suitable growing conditions
+Bangladesh,South Asia,Sorghum,50.62,48.5,44.31,50.43,53.66,27.57,Better pest and disease control
+Bangladesh,South Asia,Millet,60.62,49.28,51.72,54.92,41.51,9.78,Improved seed varieties
+Bangladesh,South Asia,Pulses,41.15,52.26,55.62,56.92,42.03,10.2,Government support and procurement policy
+Bangladesh,South Asia,Groundnut,55.94,38.78,49.53,55.72,26.0,20.46,Fertilizer use optimization
+Sri Lanka,South Asia,Wheat,61.47,42.97,40.04,41.43,46.15,12.69,Irrigation expansion
+Sri Lanka,South Asia,Rice,57.81,56.75,35.72,69.24,16.25,20.42,Fertilizer use optimization
+Sri Lanka,South Asia,Maize,59.02,32.75,61.77,44.67,59.02,15.59,Mechanization and farm machinery
+Sri Lanka,South Asia,Soybean,55.57,21.97,46.07,47.48,30.47,24.54,AI-based crop advisory adoption
+Sri Lanka,South Asia,Sugarcane,47.66,31.38,34.53,35.34,37.25,32.7,Expansion of harvested area
+Sri Lanka,South Asia,Cotton,54.57,44.34,39.95,67.25,55.61,13.38,Expansion of harvested area
+Sri Lanka,South Asia,Potato,54.81,40.44,47.01,43.12,9.04,12.52,Mechanization and farm machinery
+Sri Lanka,South Asia,Barley,31.2,44.71,31.52,49.52,19.83,7.07,Government support and procurement policy
+Sri Lanka,South Asia,Sorghum,51.62,57.56,50.59,66.34,32.1,15.61,Expansion of harvested area
+Sri Lanka,South Asia,Millet,42.66,55.6,48.48,47.64,57.45,11.79,Irrigation expansion
+Sri Lanka,South Asia,Pulses,47.45,45.21,37.19,46.57,43.05,28.59,Expansion of harvested area
+Sri Lanka,South Asia,Groundnut,51.71,59.61,46.61,43.93,57.58,23.05,Improved seed varieties
+Nepal,South Asia,Wheat,43.35,37.84,42.16,58.21,20.48,23.13,Irrigation expansion
+Nepal,South Asia,Rice,76.0,41.32,34.29,48.26,66.1,19.67,Better pest and disease control
+Nepal,South Asia,Maize,57.44,51.71,51.38,45.41,40.75,30.17,Government support and procurement policy
+Nepal,South Asia,Soybean,47.32,49.92,43.42,47.38,36.47,16.86,Climate-suitable growing conditions
+Nepal,South Asia,Sugarcane,54.32,63.41,49.89,49.35,49.09,24.57,Improved seed varieties
+Nepal,South Asia,Cotton,54.02,35.92,34.53,54.05,55.12,19.46,AI-based crop advisory adoption
+Nepal,South Asia,Potato,35.09,33.01,39.26,62.24,36.12,31.71,Improved seed varieties
+Nepal,South Asia,Barley,44.09,34.88,40.77,43.79,37.88,16.8,Expansion of harvested area
+Nepal,South Asia,Sorghum,65.37,55.64,33.34,44.04,40.87,20.17,AI-based crop advisory adoption
+Nepal,South Asia,Millet,42.24,42.44,47.4,53.42,37.3,28.79,Government support and procurement policy
+Nepal,South Asia,Pulses,49.62,37.51,35.86,36.99,56.85,15.79,Expansion of harvested area
+Nepal,South Asia,Groundnut,56.35,45.91,40.59,49.09,53.42,35.99,Climate-suitable growing conditions
+Afghanistan,South Asia,Wheat,44.86,42.82,55.5,45.46,10.19,9.5,Better pest and disease control
+Afghanistan,South Asia,Rice,44.58,29.94,39.67,47.25,19.96,5.08,Fertilizer use optimization
+Afghanistan,South Asia,Maize,53.02,29.49,44.88,38.66,24.63,28.57,Irrigation expansion
+Afghanistan,South Asia,Soybean,53.7,42.44,43.7,62.92,25.13,13.84,Irrigation expansion
+Afghanistan,South Asia,Sugarcane,60.97,47.87,42.26,57.98,38.82,26.5,Precision agriculture and satellite monitoring
+Afghanistan,South Asia,Cotton,52.21,41.34,40.6,55.05,29.81,14.49,Expansion of harvested area
+Afghanistan,South Asia,Potato,59.98,28.13,52.18,44.83,22.29,13.76,Expansion of harvested area
+Afghanistan,South Asia,Barley,41.59,31.16,37.81,56.58,55.99,16.7,Precision agriculture and satellite monitoring
+Afghanistan,South Asia,Sorghum,44.88,37.47,51.75,51.98,41.28,17.24,Better pest and disease control
+Afghanistan,South Asia,Millet,57.58,35.6,32.35,65.28,40.98,22.34,Irrigation expansion
+Afghanistan,South Asia,Pulses,48.22,44.31,36.55,48.62,5.0,16.36,Improved seed varieties
+Afghanistan,South Asia,Groundnut,45.4,38.58,63.37,41.84,38.11,23.14,Precision agriculture and satellite monitoring
+Bhutan,South Asia,Wheat,52.38,36.58,42.68,50.69,27.58,8.33,Precision agriculture and satellite monitoring
+Bhutan,South Asia,Rice,46.19,47.25,47.53,49.84,35.66,19.85,AI-based crop advisory adoption
+Bhutan,South Asia,Maize,55.82,49.14,49.63,49.22,60.51,26.98,Improved seed varieties
+Bhutan,South Asia,Soybean,54.16,36.59,43.24,58.92,23.83,39.21,Government support and procurement policy
+Bhutan,South Asia,Sugarcane,45.31,42.74,36.55,56.02,23.66,21.52,Fertilizer use optimization
+Bhutan,South Asia,Cotton,58.28,32.22,40.07,54.05,35.94,20.9,Better pest and disease control
+Bhutan,South Asia,Potato,62.58,58.26,43.56,45.27,12.2,23.19,Government support and procurement policy
+Bhutan,South Asia,Barley,64.34,33.45,40.05,50.13,29.66,28.59,Improved seed varieties
+Bhutan,South Asia,Sorghum,35.64,35.02,47.41,52.58,38.96,19.17,AI-based crop advisory adoption
+Bhutan,South Asia,Millet,48.89,52.39,46.32,42.07,14.75,12.28,Better pest and disease control
+Bhutan,South Asia,Pulses,48.21,37.6,39.25,54.21,20.6,13.51,Precision agriculture and satellite monitoring
+Bhutan,South Asia,Groundnut,53.91,35.7,58.56,56.41,45.93,16.55,Better pest and disease control
+China,East Asia,Wheat,57.97,53.8,74.41,65.1,43.02,36.81,AI-based crop advisory adoption
+China,East Asia,Rice,84.23,54.79,56.34,74.55,38.22,48.25,Fertilizer use optimization
+China,East Asia,Maize,55.17,72.67,51.46,82.1,71.05,39.94,Climate-suitable growing conditions
+China,East Asia,Soybean,58.69,49.66,57.44,65.42,45.65,39.38,Climate-suitable growing conditions
+China,East Asia,Sugarcane,63.96,46.56,58.01,69.22,42.04,34.35,Mechanization and farm machinery
+China,East Asia,Cotton,60.37,72.62,58.68,65.66,70.81,47.2,Government support and procurement policy
+China,East Asia,Potato,87.62,54.97,68.11,55.59,50.17,41.42,Precision agriculture and satellite monitoring
+China,East Asia,Barley,74.49,57.53,80.18,64.48,77.36,47.35,Mechanization and farm machinery
+China,East Asia,Sorghum,81.05,49.16,59.36,64.17,68.75,37.54,AI-based crop advisory adoption
+China,East Asia,Millet,78.4,76.29,57.07,73.81,34.8,42.64,Climate-suitable growing conditions
+China,East Asia,Pulses,65.84,57.65,75.94,62.74,38.44,46.29,Better pest and disease control
+China,East Asia,Groundnut,59.28,56.25,75.12,83.9,57.8,37.97,Climate-suitable growing conditions
+Japan,East Asia,Wheat,62.2,67.3,65.43,74.08,33.81,48.85,Expansion of harvested area
+Japan,East Asia,Rice,69.34,67.15,63.69,89.12,54.04,39.09,Better pest and disease control
+Japan,East Asia,Maize,74.91,61.01,62.22,88.12,65.56,48.33,Better pest and disease control
+Japan,East Asia,Soybean,60.47,63.7,69.96,70.64,53.11,32.67,Expansion of harvested area
+Japan,East Asia,Sugarcane,73.83,69.92,67.99,67.87,48.33,22.82,Fertilizer use optimization
+Japan,East Asia,Cotton,58.11,71.56,56.74,77.87,54.74,38.14,Government support and procurement policy
+Japan,East Asia,Potato,68.96,71.49,52.98,52.08,70.81,35.92,Climate-suitable growing conditions
+Japan,East Asia,Barley,56.29,65.26,58.87,84.11,25.62,45.61,AI-based crop advisory adoption
+Japan,East Asia,Sorghum,54.69,54.29,65.95,50.0,75.35,56.86,Government support and procurement policy
+Japan,East Asia,Millet,70.11,42.86,74.05,81.59,60.6,27.32,Climate-suitable growing conditions
+Japan,East Asia,Pulses,73.57,70.44,55.72,75.38,73.44,35.75,Government support and procurement policy
+Japan,East Asia,Groundnut,73.23,60.24,70.17,71.5,63.7,40.74,Government support and procurement policy
+South Korea,East Asia,Wheat,68.57,54.54,62.93,68.52,33.78,35.5,Climate-suitable growing conditions
+South Korea,East Asia,Rice,82.08,64.19,70.9,78.74,51.17,30.13,Government support and procurement policy
+South Korea,East Asia,Maize,83.94,68.15,62.94,79.85,69.82,47.24,AI-based crop advisory adoption
+South Korea,East Asia,Soybean,57.06,61.5,76.98,78.15,32.97,40.97,Better pest and disease control
+South Korea,East Asia,Sugarcane,78.89,90.86,65.19,77.01,61.14,49.09,Irrigation expansion
+South Korea,East Asia,Cotton,81.7,78.44,71.3,69.43,48.97,42.47,Irrigation expansion
+South Korea,East Asia,Potato,78.79,67.82,59.43,79.66,45.32,36.15,AI-based crop advisory adoption
+South Korea,East Asia,Barley,55.71,60.18,58.43,67.17,54.95,28.35,Expansion of harvested area
+South Korea,East Asia,Sorghum,63.12,66.03,66.92,65.88,54.1,40.43,Climate-suitable growing conditions
+South Korea,East Asia,Millet,73.96,52.76,65.98,82.73,50.44,52.47,Fertilizer use optimization
+South Korea,East Asia,Pulses,78.32,57.94,83.62,73.89,85.3,45.03,Mechanization and farm machinery
+South Korea,East Asia,Groundnut,81.34,49.93,70.27,64.36,40.3,35.55,Mechanization and farm machinery
+North Korea,East Asia,Wheat,73.91,49.41,85.37,59.16,52.8,33.85,Government support and procurement policy
+North Korea,East Asia,Rice,79.5,40.63,50.24,69.89,57.59,32.44,Expansion of harvested area
+North Korea,East Asia,Maize,75.73,70.51,71.35,73.36,51.01,30.34,Climate-suitable growing conditions
+North Korea,East Asia,Soybean,73.58,56.52,63.12,81.82,66.89,28.51,Precision agriculture and satellite monitoring
+North Korea,East Asia,Sugarcane,63.39,87.91,70.06,78.26,49.67,44.67,Fertilizer use optimization
+North Korea,East Asia,Cotton,70.88,53.4,81.18,68.49,47.6,33.34,AI-based crop advisory adoption
+North Korea,East Asia,Potato,76.35,64.96,57.52,73.42,61.43,39.45,Climate-suitable growing conditions
+North Korea,East Asia,Barley,70.6,72.57,75.16,78.89,68.74,44.08,Climate-suitable growing conditions
+North Korea,East Asia,Sorghum,64.1,70.35,59.23,51.88,59.57,36.76,Government support and procurement policy
+North Korea,East Asia,Millet,70.59,58.07,50.13,70.25,48.94,28.26,Mechanization and farm machinery
+North Korea,East Asia,Pulses,67.17,74.17,80.31,68.08,53.35,46.62,Better pest and disease control
+North Korea,East Asia,Groundnut,75.68,70.86,65.87,56.09,45.37,48.86,Better pest and disease control
+Mongolia,East Asia,Wheat,68.89,73.33,70.42,83.46,60.22,45.51,Climate-suitable growing conditions
+Mongolia,East Asia,Rice,76.78,62.82,72.27,77.74,58.37,51.69,Expansion of harvested area
+Mongolia,East Asia,Maize,76.8,70.85,60.69,69.45,60.76,49.51,Climate-suitable growing conditions
+Mongolia,East Asia,Soybean,71.61,68.29,82.01,74.52,35.61,41.11,Government support and procurement policy
+Mongolia,East Asia,Sugarcane,70.35,45.3,65.93,80.45,87.68,39.73,Government support and procurement policy
+Mongolia,East Asia,Cotton,67.88,59.29,72.37,70.59,45.07,32.16,Fertilizer use optimization
+Mongolia,East Asia,Potato,66.5,80.54,71.97,65.77,46.02,25.74,Fertilizer use optimization
+Mongolia,East Asia,Barley,65.48,63.08,75.15,65.21,51.84,27.12,Precision agriculture and satellite monitoring
+Mongolia,East Asia,Sorghum,56.83,62.02,53.96,68.37,47.96,44.45,Climate-suitable growing conditions
+Mongolia,East Asia,Millet,57.45,49.83,70.82,72.73,55.93,35.17,Improved seed varieties
+Mongolia,East Asia,Pulses,59.77,67.19,67.81,56.38,53.22,56.85,Precision agriculture and satellite monitoring
+Mongolia,East Asia,Groundnut,76.93,65.79,65.85,83.78,9.75,52.55,Improved seed varieties
+Indonesia,Southeast Asia,Wheat,59.84,40.12,36.33,63.34,39.89,10.67,Climate-suitable growing conditions
+Indonesia,Southeast Asia,Rice,70.74,53.14,41.47,58.43,27.91,20.41,Expansion of harvested area
+Indonesia,Southeast Asia,Maize,52.43,58.26,58.13,50.13,60.78,23.43,Fertilizer use optimization
+Indonesia,Southeast Asia,Soybean,50.22,40.28,46.62,58.05,35.64,18.13,Precision agriculture and satellite monitoring
+Indonesia,Southeast Asia,Sugarcane,51.81,67.28,46.37,55.16,5.0,15.07,Improved seed varieties
+Indonesia,Southeast Asia,Cotton,65.22,35.18,52.73,51.67,34.88,14.58,Government support and procurement policy
+Indonesia,Southeast Asia,Potato,43.43,33.08,55.44,73.97,52.17,39.91,Fertilizer use optimization
+Indonesia,Southeast Asia,Barley,46.01,58.67,39.65,43.95,46.48,26.24,Expansion of harvested area
+Indonesia,Southeast Asia,Sorghum,40.84,21.45,53.77,44.57,44.23,17.99,Precision agriculture and satellite monitoring
+Indonesia,Southeast Asia,Millet,64.11,50.03,50.47,69.6,26.22,25.42,Improved seed varieties
+Indonesia,Southeast Asia,Pulses,39.24,43.38,36.05,59.9,40.31,37.46,Better pest and disease control
+Indonesia,Southeast Asia,Groundnut,41.36,53.67,36.76,52.68,63.34,29.89,Fertilizer use optimization
+Vietnam,Southeast Asia,Wheat,49.57,39.9,53.95,63.34,24.58,22.14,Mechanization and farm machinery
+Vietnam,Southeast Asia,Rice,60.26,40.89,53.78,60.57,53.83,22.58,Irrigation expansion
+Vietnam,Southeast Asia,Maize,65.89,44.92,29.3,63.39,35.02,36.45,Expansion of harvested area
+Vietnam,Southeast Asia,Soybean,50.59,50.77,55.11,50.07,67.9,20.44,Improved seed varieties
+Vietnam,Southeast Asia,Sugarcane,67.95,56.97,48.01,69.08,47.15,12.12,Government support and procurement policy
+Vietnam,Southeast Asia,Cotton,54.76,47.57,62.16,47.29,50.89,17.89,Mechanization and farm machinery
+Vietnam,Southeast Asia,Potato,51.43,53.32,41.15,48.0,14.96,16.47,AI-based crop advisory adoption
+Vietnam,Southeast Asia,Barley,50.83,58.83,44.99,43.71,33.34,22.13,AI-based crop advisory adoption
+Vietnam,Southeast Asia,Sorghum,62.77,47.05,49.75,46.74,58.71,39.78,Irrigation expansion
+Vietnam,Southeast Asia,Millet,63.58,37.3,36.62,44.66,45.17,36.92,Improved seed varieties
+Vietnam,Southeast Asia,Pulses,37.99,37.27,38.39,59.77,37.11,1.0,Fertilizer use optimization
+Vietnam,Southeast Asia,Groundnut,72.48,47.25,54.02,46.82,16.92,34.95,Irrigation expansion
+Thailand,Southeast Asia,Wheat,40.27,46.41,39.51,49.2,26.57,22.66,Mechanization and farm machinery
+Thailand,Southeast Asia,Rice,65.17,54.57,40.79,54.37,39.9,10.58,Irrigation expansion
+Thailand,Southeast Asia,Maize,50.49,49.88,47.72,62.27,45.16,31.64,Mechanization and farm machinery
+Thailand,Southeast Asia,Soybean,57.84,43.86,53.47,63.4,9.07,30.33,Better pest and disease control
+Thailand,Southeast Asia,Sugarcane,71.56,29.77,44.38,62.31,62.84,23.48,Expansion of harvested area
+Thailand,Southeast Asia,Cotton,61.96,53.55,48.72,57.02,61.0,27.31,Expansion of harvested area
+Thailand,Southeast Asia,Potato,54.78,40.3,51.27,48.67,41.63,24.58,AI-based crop advisory adoption
+Thailand,Southeast Asia,Barley,61.6,20.46,44.27,36.93,29.37,22.22,Climate-suitable growing conditions
+Thailand,Southeast Asia,Sorghum,49.19,44.42,42.2,51.19,53.52,21.31,Government support and procurement policy
+Thailand,Southeast Asia,Millet,39.04,46.58,49.48,61.63,36.32,15.45,Climate-suitable growing conditions
+Thailand,Southeast Asia,Pulses,70.61,37.35,51.09,48.8,34.26,27.4,Precision agriculture and satellite monitoring
+Thailand,Southeast Asia,Groundnut,62.02,40.32,40.46,38.74,61.04,39.61,Fertilizer use optimization
+Philippines,Southeast Asia,Wheat,56.75,41.82,50.95,51.9,39.22,17.15,Mechanization and farm machinery
+Philippines,Southeast Asia,Rice,68.58,32.27,43.65,67.76,28.46,27.26,Better pest and disease control
+Philippines,Southeast Asia,Maize,64.31,21.68,45.38,55.25,14.81,20.76,AI-based crop advisory adoption
+Philippines,Southeast Asia,Soybean,58.64,51.58,50.7,59.3,28.62,10.25,Expansion of harvested area
+Philippines,Southeast Asia,Sugarcane,53.88,58.55,52.31,48.13,40.62,25.93,Improved seed varieties
+Philippines,Southeast Asia,Cotton,51.12,26.43,54.05,64.97,36.76,32.1,Climate-suitable growing conditions
+Philippines,Southeast Asia,Potato,65.1,39.06,40.01,58.89,14.85,26.97,Irrigation expansion
+Philippines,Southeast Asia,Barley,52.51,57.36,62.13,58.31,57.7,31.83,Irrigation expansion
+Philippines,Southeast Asia,Sorghum,55.79,47.9,47.09,63.69,37.12,24.74,AI-based crop advisory adoption
+Philippines,Southeast Asia,Millet,55.51,37.67,49.33,56.62,46.98,24.76,Improved seed varieties
+Philippines,Southeast Asia,Pulses,60.95,58.99,46.75,49.86,39.01,20.61,Precision agriculture and satellite monitoring
+Philippines,Southeast Asia,Groundnut,55.94,33.19,49.83,57.43,41.32,28.2,Government support and procurement policy
+Malaysia,Southeast Asia,Wheat,42.7,38.42,51.14,47.52,56.02,33.54,Better pest and disease control
+Malaysia,Southeast Asia,Rice,65.84,32.83,49.71,83.39,25.78,18.74,Irrigation expansion
+Malaysia,Southeast Asia,Maize,69.05,44.09,45.99,56.14,17.69,21.82,Climate-suitable growing conditions
+Malaysia,Southeast Asia,Soybean,38.67,50.5,35.44,59.91,45.26,23.34,Irrigation expansion
+Malaysia,Southeast Asia,Sugarcane,68.26,42.09,31.44,69.72,17.81,25.73,Mechanization and farm machinery
+Malaysia,Southeast Asia,Cotton,52.72,36.99,38.94,54.67,41.81,36.78,Mechanization and farm machinery
+Malaysia,Southeast Asia,Potato,49.06,46.02,49.71,53.95,39.59,26.01,Climate-suitable growing conditions
+Malaysia,Southeast Asia,Barley,63.08,56.52,53.75,56.03,25.9,25.25,Mechanization and farm machinery
+Malaysia,Southeast Asia,Sorghum,56.9,42.5,54.46,58.1,30.44,24.08,Better pest and disease control
+Malaysia,Southeast Asia,Millet,39.82,38.65,39.69,56.48,36.57,13.65,Expansion of harvested area
+Malaysia,Southeast Asia,Pulses,50.46,46.42,46.84,64.43,56.01,14.02,Irrigation expansion
+Malaysia,Southeast Asia,Groundnut,71.56,48.9,39.4,53.57,42.18,25.16,AI-based crop advisory adoption
+Myanmar,Southeast Asia,Wheat,54.07,57.75,40.8,56.2,52.8,22.99,Government support and procurement policy
+Myanmar,Southeast Asia,Rice,55.62,47.15,58.86,70.13,53.02,27.27,Expansion of harvested area
+Myanmar,Southeast Asia,Maize,45.61,43.72,46.19,54.5,14.71,13.8,Mechanization and farm machinery
+Myanmar,Southeast Asia,Soybean,54.72,55.61,53.92,55.02,34.92,37.18,Government support and procurement policy
+Myanmar,Southeast Asia,Sugarcane,56.63,45.78,44.13,56.28,57.25,36.58,Better pest and disease control
+Myanmar,Southeast Asia,Cotton,43.56,53.65,50.36,51.95,48.48,26.25,Mechanization and farm machinery
+Myanmar,Southeast Asia,Potato,57.42,52.28,38.58,47.22,69.03,34.34,Precision agriculture and satellite monitoring
+Myanmar,Southeast Asia,Barley,67.87,60.79,55.19,68.32,36.24,24.47,Mechanization and farm machinery
+Myanmar,Southeast Asia,Sorghum,64.53,24.47,46.38,31.3,15.45,20.63,Climate-suitable growing conditions
+Myanmar,Southeast Asia,Millet,55.89,47.4,52.03,55.54,41.48,32.15,Improved seed varieties
+Myanmar,Southeast Asia,Pulses,51.96,37.73,59.26,51.15,38.37,18.38,AI-based crop advisory adoption
+Myanmar,Southeast Asia,Groundnut,64.26,26.99,45.05,61.87,63.41,23.09,Fertilizer use optimization
+Cambodia,Southeast Asia,Wheat,57.23,60.29,48.45,53.48,18.69,30.12,Improved seed varieties
+Cambodia,Southeast Asia,Rice,75.2,56.79,49.31,60.01,41.28,30.43,Climate-suitable growing conditions
+Cambodia,Southeast Asia,Maize,54.41,57.11,52.89,44.06,29.44,21.36,AI-based crop advisory adoption
+Cambodia,Southeast Asia,Soybean,60.85,30.12,42.12,58.08,11.17,26.97,Better pest and disease control
+Cambodia,Southeast Asia,Sugarcane,64.12,56.23,42.42,66.9,17.86,33.79,Government support and procurement policy
+Cambodia,Southeast Asia,Cotton,51.83,54.42,56.72,46.46,38.33,26.56,Government support and procurement policy
+Cambodia,Southeast Asia,Potato,67.94,37.05,40.24,53.91,40.4,20.94,Climate-suitable growing conditions
+Cambodia,Southeast Asia,Barley,58.15,35.36,42.9,43.61,13.35,24.33,Irrigation expansion
+Cambodia,Southeast Asia,Sorghum,70.97,39.5,50.51,55.34,38.48,8.65,Mechanization and farm machinery
+Cambodia,Southeast Asia,Millet,60.02,54.66,50.98,55.09,18.66,28.94,Precision agriculture and satellite monitoring
+Cambodia,Southeast Asia,Pulses,46.43,50.4,45.55,39.53,36.78,18.83,Better pest and disease control
+Cambodia,Southeast Asia,Groundnut,52.17,62.23,64.43,61.34,46.08,19.96,Improved seed varieties
+Turkey,Middle East,Wheat,57.99,54.47,40.81,77.8,63.35,19.25,Irrigation expansion
+Turkey,Middle East,Rice,55.27,40.41,55.03,53.84,14.26,18.38,Better pest and disease control
+Turkey,Middle East,Maize,55.19,53.09,57.76,55.92,10.28,19.32,AI-based crop advisory adoption
+Turkey,Middle East,Soybean,55.85,46.86,60.78,54.95,28.31,35.37,Precision agriculture and satellite monitoring
+Turkey,Middle East,Sugarcane,54.48,52.75,66.84,54.48,45.63,36.63,Irrigation expansion
+Turkey,Middle East,Cotton,47.0,42.35,46.16,49.2,25.86,28.3,Better pest and disease control
+Turkey,Middle East,Potato,46.62,42.83,65.89,64.83,35.61,31.19,AI-based crop advisory adoption
+Turkey,Middle East,Barley,31.18,38.21,56.51,38.87,34.79,23.44,Irrigation expansion
+Turkey,Middle East,Sorghum,60.92,38.94,33.48,52.82,38.6,35.01,Better pest and disease control
+Turkey,Middle East,Millet,49.06,38.49,42.88,53.95,14.75,30.04,Government support and procurement policy
+Turkey,Middle East,Pulses,57.87,47.86,46.56,44.78,20.49,43.24,Climate-suitable growing conditions
+Turkey,Middle East,Groundnut,62.92,52.98,46.11,56.69,53.49,10.62,AI-based crop advisory adoption
+Iran,Middle East,Wheat,52.7,37.15,60.64,60.38,24.4,22.13,Expansion of harvested area
+Iran,Middle East,Rice,56.97,26.5,37.06,45.42,44.7,12.17,Mechanization and farm machinery
+Iran,Middle East,Maize,53.57,40.86,45.56,42.93,46.85,9.74,Mechanization and farm machinery
+Iran,Middle East,Soybean,50.5,32.41,48.25,51.3,43.18,27.09,Fertilizer use optimization
+Iran,Middle East,Sugarcane,58.44,43.52,46.71,51.0,37.56,37.82,Climate-suitable growing conditions
+Iran,Middle East,Cotton,61.29,48.87,51.87,56.87,32.45,39.49,Better pest and disease control
+Iran,Middle East,Potato,56.62,52.56,40.0,56.41,55.33,23.13,Government support and procurement policy
+Iran,Middle East,Barley,52.54,64.43,38.75,59.75,30.68,18.25,Better pest and disease control
+Iran,Middle East,Sorghum,54.57,37.54,43.89,62.18,43.3,31.92,Irrigation expansion
+Iran,Middle East,Millet,60.1,54.03,50.39,63.4,35.95,35.35,Mechanization and farm machinery
+Iran,Middle East,Pulses,54.18,49.3,48.31,51.86,34.2,19.2,Fertilizer use optimization
+Iran,Middle East,Groundnut,64.99,49.72,44.77,49.06,34.92,12.28,Improved seed varieties
+Iraq,Middle East,Wheat,76.79,35.37,57.43,51.64,24.8,16.72,Precision agriculture and satellite monitoring
+Iraq,Middle East,Rice,45.26,50.78,56.18,47.37,21.55,27.13,Mechanization and farm machinery
+Iraq,Middle East,Maize,85.01,55.39,31.0,58.99,55.86,14.14,Expansion of harvested area
+Iraq,Middle East,Soybean,49.16,59.76,43.33,50.59,27.98,17.04,Better pest and disease control
+Iraq,Middle East,Sugarcane,46.92,38.07,35.44,51.27,48.57,20.36,Expansion of harvested area
+Iraq,Middle East,Cotton,59.93,43.87,70.47,64.49,28.47,36.08,Expansion of harvested area
+Iraq,Middle East,Potato,46.17,42.27,54.48,60.17,30.2,33.53,Irrigation expansion
+Iraq,Middle East,Barley,57.6,56.65,54.39,62.97,38.8,20.59,Precision agriculture and satellite monitoring
+Iraq,Middle East,Sorghum,46.17,26.86,37.67,46.03,49.94,25.36,Improved seed varieties
+Iraq,Middle East,Millet,46.73,48.72,43.3,66.27,37.91,31.5,Better pest and disease control
+Iraq,Middle East,Pulses,54.79,56.83,62.21,51.48,37.13,21.11,Government support and procurement policy
+Iraq,Middle East,Groundnut,56.61,48.07,37.11,53.84,29.42,34.85,Better pest and disease control
+Saudi Arabia,Middle East,Wheat,50.59,46.1,47.93,69.15,40.18,36.51,Expansion of harvested area
+Saudi Arabia,Middle East,Rice,55.38,40.66,38.25,75.31,32.64,18.53,AI-based crop advisory adoption
+Saudi Arabia,Middle East,Maize,49.33,40.15,46.57,67.21,65.98,9.1,Better pest and disease control
+Saudi Arabia,Middle East,Soybean,62.22,44.52,40.03,61.63,36.81,23.37,Precision agriculture and satellite monitoring
+Saudi Arabia,Middle East,Sugarcane,50.71,49.32,49.93,41.06,26.78,20.49,Precision agriculture and satellite monitoring
+Saudi Arabia,Middle East,Cotton,52.84,40.78,61.25,72.57,35.87,23.21,Precision agriculture and satellite monitoring
+Saudi Arabia,Middle East,Potato,54.31,53.38,45.59,58.61,54.18,25.66,AI-based crop advisory adoption
+Saudi Arabia,Middle East,Barley,55.52,67.91,34.33,64.43,32.32,29.73,Improved seed varieties
+Saudi Arabia,Middle East,Sorghum,54.86,31.15,55.15,64.27,26.58,24.4,Expansion of harvested area
+Saudi Arabia,Middle East,Millet,56.32,68.67,56.91,57.7,46.0,25.74,Expansion of harvested area
+Saudi Arabia,Middle East,Pulses,36.8,40.73,59.06,52.38,47.04,27.22,AI-based crop advisory adoption
+Saudi Arabia,Middle East,Groundnut,59.82,46.88,47.54,43.73,37.44,33.37,Expansion of harvested area
+Syria,Middle East,Wheat,60.1,60.88,52.47,55.87,29.61,19.09,Expansion of harvested area
+Syria,Middle East,Rice,44.79,38.83,38.75,52.58,55.67,20.16,AI-based crop advisory adoption
+Syria,Middle East,Maize,50.86,35.19,40.44,62.72,49.94,18.09,Better pest and disease control
+Syria,Middle East,Soybean,49.29,50.17,65.23,60.06,47.39,34.07,Expansion of harvested area
+Syria,Middle East,Sugarcane,60.86,49.91,50.1,47.61,54.81,15.86,Irrigation expansion
+Syria,Middle East,Cotton,51.37,49.94,31.77,64.95,48.38,22.28,Improved seed varieties
+Syria,Middle East,Potato,51.48,44.43,45.94,66.57,16.33,25.15,Mechanization and farm machinery
+Syria,Middle East,Barley,53.35,39.11,50.09,60.79,39.96,15.56,Improved seed varieties
+Syria,Middle East,Sorghum,58.44,43.47,65.78,59.61,51.41,34.33,Improved seed varieties
+Syria,Middle East,Millet,52.96,54.58,47.31,46.27,43.01,27.66,AI-based crop advisory adoption
+Syria,Middle East,Pulses,51.86,28.36,51.76,56.29,43.29,22.38,Government support and procurement policy
+Syria,Middle East,Groundnut,68.88,36.96,51.88,56.39,50.15,22.06,Precision agriculture and satellite monitoring
+Jordan,Middle East,Wheat,56.36,58.14,59.4,62.5,41.53,22.89,Government support and procurement policy
+Jordan,Middle East,Rice,63.16,35.38,41.25,45.5,57.89,19.98,Precision agriculture and satellite monitoring
+Jordan,Middle East,Maize,80.31,57.18,46.22,68.64,34.56,16.7,Expansion of harvested area
+Jordan,Middle East,Soybean,66.64,63.84,48.85,51.36,62.93,8.19,Climate-suitable growing conditions
+Jordan,Middle East,Sugarcane,53.76,56.41,38.58,51.3,35.03,32.16,Fertilizer use optimization
+Jordan,Middle East,Cotton,50.0,41.44,36.06,49.97,37.62,22.81,Better pest and disease control
+Jordan,Middle East,Potato,62.61,61.45,51.87,48.93,65.62,22.12,Mechanization and farm machinery
+Jordan,Middle East,Barley,51.52,48.79,53.09,54.51,53.56,16.66,Better pest and disease control
+Jordan,Middle East,Sorghum,33.63,49.23,60.91,67.05,22.4,21.39,Mechanization and farm machinery
+Jordan,Middle East,Millet,51.37,63.06,50.99,63.86,34.47,38.37,Fertilizer use optimization
+Jordan,Middle East,Pulses,59.83,59.65,43.86,70.07,40.65,32.15,Precision agriculture and satellite monitoring
+Jordan,Middle East,Groundnut,46.86,45.01,62.12,41.47,49.6,24.08,Climate-suitable growing conditions
+Yemen,Middle East,Wheat,52.72,54.28,54.3,80.79,34.37,23.32,AI-based crop advisory adoption
+Yemen,Middle East,Rice,50.71,46.15,43.08,51.61,38.33,18.3,Mechanization and farm machinery
+Yemen,Middle East,Maize,66.11,47.01,41.24,61.05,53.16,18.42,Precision agriculture and satellite monitoring
+Yemen,Middle East,Soybean,55.3,44.51,50.13,56.34,27.2,10.54,Improved seed varieties
+Yemen,Middle East,Sugarcane,53.2,55.76,67.14,61.63,24.09,23.71,Irrigation expansion
+Yemen,Middle East,Cotton,59.92,38.38,51.66,71.78,28.89,21.19,AI-based crop advisory adoption
+Yemen,Middle East,Potato,50.38,44.24,40.43,66.93,40.86,35.99,Fertilizer use optimization
+Yemen,Middle East,Barley,57.74,53.27,34.39,53.25,36.31,31.91,Improved seed varieties
+Yemen,Middle East,Sorghum,43.99,43.86,58.85,57.22,27.42,20.03,Expansion of harvested area
+Yemen,Middle East,Millet,47.32,42.59,47.99,61.83,54.78,31.12,Government support and procurement policy
+Yemen,Middle East,Pulses,58.28,36.25,34.12,54.29,44.49,27.29,Improved seed varieties
+Yemen,Middle East,Groundnut,68.04,38.16,57.79,73.62,65.22,33.81,Fertilizer use optimization
+Kazakhstan,Central Asia,Wheat,59.22,55.16,49.88,59.91,40.85,28.99,Irrigation expansion
+Kazakhstan,Central Asia,Rice,64.04,56.48,40.52,59.72,5.0,21.35,Government support and procurement policy
+Kazakhstan,Central Asia,Maize,46.73,54.35,48.88,53.01,67.51,19.16,AI-based crop advisory adoption
+Kazakhstan,Central Asia,Soybean,65.75,59.04,46.56,64.58,40.79,32.72,Climate-suitable growing conditions
+Kazakhstan,Central Asia,Sugarcane,55.38,5.0,40.06,57.22,25.91,25.01,Mechanization and farm machinery
+Kazakhstan,Central Asia,Cotton,51.22,47.07,37.98,57.65,52.78,18.74,Improved seed varieties
+Kazakhstan,Central Asia,Potato,48.39,60.1,38.26,48.23,47.99,26.0,Improved seed varieties
+Kazakhstan,Central Asia,Barley,56.49,44.33,48.37,44.21,39.36,15.6,Government support and procurement policy
+Kazakhstan,Central Asia,Sorghum,44.96,36.07,39.87,55.29,37.77,24.44,Better pest and disease control
+Kazakhstan,Central Asia,Millet,47.6,28.89,34.19,45.2,33.99,35.24,Government support and procurement policy
+Kazakhstan,Central Asia,Pulses,58.76,49.01,39.09,51.54,42.17,34.9,Irrigation expansion
+Kazakhstan,Central Asia,Groundnut,53.03,38.17,58.41,47.7,62.27,24.9,Mechanization and farm machinery
+Uzbekistan,Central Asia,Wheat,60.83,51.7,52.47,49.15,52.52,21.14,AI-based crop advisory adoption
+Uzbekistan,Central Asia,Rice,64.39,44.08,47.04,62.35,40.23,18.97,Precision agriculture and satellite monitoring
+Uzbekistan,Central Asia,Maize,53.98,38.03,40.32,49.28,48.38,26.02,Better pest and disease control
+Uzbekistan,Central Asia,Soybean,55.01,42.96,37.32,53.81,18.98,25.41,Expansion of harvested area
+Uzbekistan,Central Asia,Sugarcane,57.57,46.59,45.72,71.28,35.5,12.99,Improved seed varieties
+Uzbekistan,Central Asia,Cotton,64.1,48.61,36.81,53.67,40.87,19.01,Better pest and disease control
+Uzbekistan,Central Asia,Potato,52.68,39.79,50.81,59.27,44.79,8.75,Precision agriculture and satellite monitoring
+Uzbekistan,Central Asia,Barley,54.56,41.99,27.4,56.59,24.28,27.04,Expansion of harvested area
+Uzbekistan,Central Asia,Sorghum,53.38,26.72,46.18,51.42,57.8,7.51,Irrigation expansion
+Uzbekistan,Central Asia,Millet,59.06,47.69,32.66,51.94,51.41,19.99,Improved seed varieties
+Uzbekistan,Central Asia,Pulses,47.42,46.18,52.11,43.13,34.93,22.08,Expansion of harvested area
+Uzbekistan,Central Asia,Groundnut,48.08,45.99,48.09,66.71,42.43,12.36,Expansion of harvested area
+Turkmenistan,Central Asia,Wheat,66.18,30.34,46.95,64.32,50.73,28.64,Climate-suitable growing conditions
+Turkmenistan,Central Asia,Rice,59.62,53.62,51.44,43.68,25.04,16.42,Precision agriculture and satellite monitoring
+Turkmenistan,Central Asia,Maize,50.74,24.48,46.27,57.43,43.15,25.68,Expansion of harvested area
+Turkmenistan,Central Asia,Soybean,43.24,31.42,59.09,63.2,25.31,20.43,Better pest and disease control
+Turkmenistan,Central Asia,Sugarcane,53.67,55.43,42.41,54.96,34.16,29.19,Fertilizer use optimization
+Turkmenistan,Central Asia,Cotton,49.03,52.78,55.44,40.87,68.78,24.14,Irrigation expansion
+Turkmenistan,Central Asia,Potato,48.55,26.39,38.46,56.55,37.83,21.74,Government support and procurement policy
+Turkmenistan,Central Asia,Barley,56.46,47.79,37.83,50.18,60.09,32.8,Irrigation expansion
+Turkmenistan,Central Asia,Sorghum,48.79,36.52,55.31,61.34,33.74,13.7,Irrigation expansion
+Turkmenistan,Central Asia,Millet,63.62,53.35,44.39,60.33,59.43,23.13,Precision agriculture and satellite monitoring
+Turkmenistan,Central Asia,Pulses,56.34,28.54,44.08,41.55,59.08,20.58,Precision agriculture and satellite monitoring
+Turkmenistan,Central Asia,Groundnut,60.25,45.72,62.09,42.5,7.79,18.9,Improved seed varieties
+Kyrgyzstan,Central Asia,Wheat,60.68,47.82,58.75,64.53,31.51,14.27,AI-based crop advisory adoption
+Kyrgyzstan,Central Asia,Rice,41.97,42.03,44.82,58.08,15.67,24.65,Government support and procurement policy
+Kyrgyzstan,Central Asia,Maize,55.66,37.52,51.82,49.68,55.09,35.0,Precision agriculture and satellite monitoring
+Kyrgyzstan,Central Asia,Soybean,57.88,52.0,51.91,62.24,17.17,13.81,Government support and procurement policy
+Kyrgyzstan,Central Asia,Sugarcane,43.19,53.2,42.82,56.97,45.22,26.7,Improved seed varieties
+Kyrgyzstan,Central Asia,Cotton,63.35,47.82,32.47,57.33,36.41,27.23,Climate-suitable growing conditions
+Kyrgyzstan,Central Asia,Potato,52.56,52.99,48.98,45.68,38.17,27.02,Expansion of harvested area
+Kyrgyzstan,Central Asia,Barley,50.53,37.05,40.94,57.69,46.82,31.93,AI-based crop advisory adoption
+Kyrgyzstan,Central Asia,Sorghum,51.16,38.57,54.33,35.42,40.45,18.06,AI-based crop advisory adoption
+Kyrgyzstan,Central Asia,Millet,61.34,41.41,47.53,47.07,15.39,19.27,Precision agriculture and satellite monitoring
+Kyrgyzstan,Central Asia,Pulses,65.32,44.68,37.35,59.42,42.21,15.55,Irrigation expansion
+Kyrgyzstan,Central Asia,Groundnut,61.09,48.67,43.51,46.87,41.66,22.84,AI-based crop advisory adoption
+Tajikistan,Central Asia,Wheat,55.09,28.35,46.23,56.08,40.36,15.5,Irrigation expansion
+Tajikistan,Central Asia,Rice,51.68,41.84,44.17,43.39,48.31,23.72,Better pest and disease control
+Tajikistan,Central Asia,Maize,45.41,55.57,69.34,42.29,58.15,19.78,Fertilizer use optimization
+Tajikistan,Central Asia,Soybean,48.97,46.7,35.9,51.46,15.94,27.33,AI-based crop advisory adoption
+Tajikistan,Central Asia,Sugarcane,33.93,27.11,55.22,53.45,62.39,29.65,Precision agriculture and satellite monitoring
+Tajikistan,Central Asia,Cotton,55.15,36.59,45.8,66.99,16.57,23.69,Expansion of harvested area
+Tajikistan,Central Asia,Potato,63.83,28.65,56.54,49.65,9.17,20.91,Improved seed varieties
+Tajikistan,Central Asia,Barley,63.6,44.02,34.35,55.13,36.29,27.93,Improved seed varieties
+Tajikistan,Central Asia,Sorghum,52.81,46.28,44.7,61.57,45.29,35.63,Precision agriculture and satellite monitoring
+Tajikistan,Central Asia,Millet,60.88,52.14,55.25,57.7,19.69,23.29,Expansion of harvested area
+Tajikistan,Central Asia,Pulses,49.85,42.7,36.54,46.1,39.33,15.91,Climate-suitable growing conditions
+Tajikistan,Central Asia,Groundnut,55.33,43.17,45.54,56.76,57.59,18.63,Mechanization and farm machinery
+France,Europe,Wheat,83.29,43.96,79.87,80.51,56.91,39.65,AI-based crop advisory adoption
+France,Europe,Rice,73.65,76.75,69.14,61.38,58.93,40.34,AI-based crop advisory adoption
+France,Europe,Maize,68.48,62.7,75.45,81.09,59.16,45.01,Expansion of harvested area
+France,Europe,Soybean,68.61,70.77,60.04,63.03,60.07,43.35,Expansion of harvested area
+France,Europe,Sugarcane,51.0,67.27,73.96,72.08,44.66,53.57,Improved seed varieties
+France,Europe,Cotton,65.83,58.46,75.58,80.54,60.14,54.22,Improved seed varieties
+France,Europe,Potato,67.8,69.83,91.09,69.61,47.47,45.41,Government support and procurement policy
+France,Europe,Barley,67.35,70.7,50.33,83.78,64.69,22.18,Expansion of harvested area
+France,Europe,Sorghum,85.16,51.52,78.85,88.2,57.81,34.77,Improved seed varieties
+France,Europe,Millet,74.04,90.5,71.53,80.07,77.04,39.33,Expansion of harvested area
+France,Europe,Pulses,76.81,71.27,72.24,76.24,85.52,56.98,Better pest and disease control
+France,Europe,Groundnut,81.83,81.8,50.49,66.55,59.34,58.23,Better pest and disease control
+Germany,Europe,Wheat,68.93,64.76,70.94,75.1,80.33,55.91,Precision agriculture and satellite monitoring
+Germany,Europe,Rice,83.38,74.87,58.07,81.35,61.97,50.02,Better pest and disease control
+Germany,Europe,Maize,60.06,67.98,51.63,83.42,49.65,47.66,AI-based crop advisory adoption
+Germany,Europe,Soybean,81.8,64.69,58.76,64.11,60.86,70.41,Better pest and disease control
+Germany,Europe,Sugarcane,68.27,68.78,80.41,79.11,29.21,54.45,Expansion of harvested area
+Germany,Europe,Cotton,79.33,75.97,71.15,63.86,61.64,51.52,Fertilizer use optimization
+Germany,Europe,Potato,69.3,61.91,68.38,81.02,57.36,39.11,Better pest and disease control
+Germany,Europe,Barley,74.72,81.68,62.88,70.25,44.75,44.48,Government support and procurement policy
+Germany,Europe,Sorghum,76.48,54.93,76.27,60.3,50.49,46.54,Precision agriculture and satellite monitoring
+Germany,Europe,Millet,86.31,70.0,68.18,69.12,70.15,55.45,Precision agriculture and satellite monitoring
+Germany,Europe,Pulses,61.97,74.7,64.24,65.68,55.25,54.32,Better pest and disease control
+Germany,Europe,Groundnut,75.29,71.59,68.58,69.78,65.28,39.51,Precision agriculture and satellite monitoring
+Ukraine,Europe,Wheat,83.66,70.25,80.26,59.53,69.35,62.19,Precision agriculture and satellite monitoring
+Ukraine,Europe,Rice,53.85,69.89,75.38,78.82,55.7,60.43,Fertilizer use optimization
+Ukraine,Europe,Maize,66.67,66.45,69.09,72.51,71.23,56.79,Fertilizer use optimization
+Ukraine,Europe,Soybean,70.08,58.1,65.89,78.51,78.05,35.01,Mechanization and farm machinery
+Ukraine,Europe,Sugarcane,77.46,63.17,63.03,58.44,58.84,45.13,AI-based crop advisory adoption
+Ukraine,Europe,Cotton,70.45,67.02,59.59,67.03,43.62,43.51,Precision agriculture and satellite monitoring
+Ukraine,Europe,Potato,80.21,65.44,76.44,74.72,63.79,43.25,Government support and procurement policy
+Ukraine,Europe,Barley,77.19,60.17,66.61,85.64,48.2,49.75,Expansion of harvested area
+Ukraine,Europe,Sorghum,61.47,62.37,76.95,62.25,45.19,51.77,Expansion of harvested area
+Ukraine,Europe,Millet,85.65,64.1,67.75,75.24,38.6,43.16,Fertilizer use optimization
+Ukraine,Europe,Pulses,72.95,50.8,59.39,81.28,29.3,51.32,Climate-suitable growing conditions
+Ukraine,Europe,Groundnut,67.58,67.05,71.5,74.88,55.72,51.57,Irrigation expansion
+Russia,Europe,Wheat,69.96,58.41,70.96,90.26,51.46,40.66,Mechanization and farm machinery
+Russia,Europe,Rice,78.11,86.09,84.29,73.55,49.42,51.37,Government support and procurement policy
+Russia,Europe,Maize,80.73,82.66,78.59,61.72,40.67,62.25,Mechanization and farm machinery
+Russia,Europe,Soybean,77.63,79.92,62.65,70.75,43.32,29.87,Fertilizer use optimization
+Russia,Europe,Sugarcane,80.31,57.53,78.36,77.62,66.51,56.48,Climate-suitable growing conditions
+Russia,Europe,Cotton,77.15,64.57,60.07,72.64,60.38,48.61,Better pest and disease control
+Russia,Europe,Potato,74.37,78.74,53.65,75.76,50.24,44.42,Fertilizer use optimization
+Russia,Europe,Barley,74.67,63.85,85.38,66.74,42.2,61.25,Better pest and disease control
+Russia,Europe,Sorghum,76.31,77.33,68.19,74.13,60.8,42.83,Expansion of harvested area
+Russia,Europe,Millet,86.54,79.35,72.45,67.9,91.66,42.28,AI-based crop advisory adoption
+Russia,Europe,Pulses,76.09,78.71,79.07,61.85,89.46,56.36,Precision agriculture and satellite monitoring
+Russia,Europe,Groundnut,80.15,74.06,89.65,72.12,51.22,37.63,Climate-suitable growing conditions
+Poland,Europe,Wheat,71.0,49.02,65.5,80.62,49.83,43.54,AI-based crop advisory adoption
+Poland,Europe,Rice,76.42,56.34,74.83,79.23,38.19,54.6,Irrigation expansion
+Poland,Europe,Maize,67.25,61.64,77.97,71.9,57.44,35.14,Fertilizer use optimization
+Poland,Europe,Soybean,80.99,60.57,77.17,72.24,64.46,44.03,AI-based crop advisory adoption
+Poland,Europe,Sugarcane,67.51,51.67,58.57,64.12,70.75,58.3,Climate-suitable growing conditions
+Poland,Europe,Cotton,64.56,71.29,68.31,77.17,73.57,49.94,Climate-suitable growing conditions
+Poland,Europe,Potato,66.26,80.12,85.07,69.84,64.69,40.67,Fertilizer use optimization
+Poland,Europe,Barley,64.33,79.33,63.97,83.67,67.69,33.1,Precision agriculture and satellite monitoring
+Poland,Europe,Sorghum,74.64,67.88,69.11,81.34,73.51,34.8,Expansion of harvested area
+Poland,Europe,Millet,62.8,69.55,66.84,84.98,59.29,46.33,Improved seed varieties
+Poland,Europe,Pulses,78.01,69.13,73.1,68.32,55.36,52.72,AI-based crop advisory adoption
+Poland,Europe,Groundnut,77.95,63.16,62.12,74.09,72.9,34.53,Irrigation expansion
+Italy,Europe,Wheat,80.73,65.41,76.36,77.07,56.5,48.56,Precision agriculture and satellite monitoring
+Italy,Europe,Rice,66.78,58.01,57.76,71.12,47.11,44.02,Climate-suitable growing conditions
+Italy,Europe,Maize,76.08,58.15,75.94,70.79,79.92,44.59,Precision agriculture and satellite monitoring
+Italy,Europe,Soybean,78.57,74.8,85.68,78.54,56.46,42.15,Government support and procurement policy
+Italy,Europe,Sugarcane,61.19,57.41,67.73,66.75,51.68,60.84,AI-based crop advisory adoption
+Italy,Europe,Cotton,64.29,60.11,63.64,79.26,46.15,33.23,Expansion of harvested area
+Italy,Europe,Potato,69.26,65.89,53.03,85.76,33.94,66.29,Expansion of harvested area
+Italy,Europe,Barley,59.23,66.41,83.78,71.74,57.73,54.61,Climate-suitable growing conditions
+Italy,Europe,Sorghum,62.77,75.0,71.96,74.09,44.9,26.01,AI-based crop advisory adoption
+Italy,Europe,Millet,66.54,57.18,70.71,79.79,72.47,53.08,Fertilizer use optimization
+Italy,Europe,Pulses,67.17,66.19,83.79,62.39,76.28,38.42,Climate-suitable growing conditions
+Italy,Europe,Groundnut,67.16,54.82,77.05,73.49,76.19,59.25,Better pest and disease control
+Spain,Europe,Wheat,80.29,62.08,85.56,75.37,46.62,46.64,Government support and procurement policy
+Spain,Europe,Rice,61.37,79.09,74.37,75.44,23.66,46.21,AI-based crop advisory adoption
+Spain,Europe,Maize,89.61,65.02,61.9,78.19,69.09,53.86,Expansion of harvested area
+Spain,Europe,Soybean,83.41,75.55,74.38,80.07,63.15,33.67,Fertilizer use optimization
+Spain,Europe,Sugarcane,78.26,61.22,70.93,85.45,72.57,29.0,Climate-suitable growing conditions
+Spain,Europe,Cotton,69.12,62.32,66.88,64.58,60.82,63.8,Expansion of harvested area
+Spain,Europe,Potato,65.43,64.8,70.1,68.26,44.68,55.79,Precision agriculture and satellite monitoring
+Spain,Europe,Barley,77.06,49.87,69.36,72.54,71.88,48.34,Improved seed varieties
+Spain,Europe,Sorghum,83.65,73.05,58.24,62.24,74.95,45.49,Precision agriculture and satellite monitoring
+Spain,Europe,Millet,66.14,62.48,61.63,72.17,71.79,40.45,Expansion of harvested area
+Spain,Europe,Pulses,74.38,61.61,58.28,78.32,65.6,43.59,Precision agriculture and satellite monitoring
+Spain,Europe,Groundnut,65.98,68.52,71.85,60.59,56.58,33.93,Climate-suitable growing conditions
+United Kingdom,Europe,Wheat,77.55,49.36,73.98,77.07,54.82,47.51,Climate-suitable growing conditions
+United Kingdom,Europe,Rice,73.17,60.94,81.42,70.96,46.14,34.35,Expansion of harvested area
+United Kingdom,Europe,Maize,70.92,57.97,88.38,76.98,71.04,48.3,Precision agriculture and satellite monitoring
+United Kingdom,Europe,Soybean,81.64,54.17,64.68,65.37,55.0,59.06,Better pest and disease control
+United Kingdom,Europe,Sugarcane,72.11,76.8,83.05,83.3,55.53,45.53,Better pest and disease control
+United Kingdom,Europe,Cotton,62.86,52.34,80.08,71.21,47.94,49.35,Improved seed varieties
+United Kingdom,Europe,Potato,71.04,47.46,55.14,67.82,55.27,45.63,Mechanization and farm machinery
+United Kingdom,Europe,Barley,65.09,73.83,64.82,71.32,63.77,44.64,Government support and procurement policy
+United Kingdom,Europe,Sorghum,73.71,65.4,69.42,73.21,58.75,55.51,Government support and procurement policy
+United Kingdom,Europe,Millet,81.91,64.96,90.78,76.63,41.9,44.18,Government support and procurement policy
+United Kingdom,Europe,Pulses,75.48,57.99,65.13,70.82,55.02,44.49,Irrigation expansion
+United Kingdom,Europe,Groundnut,75.51,75.86,65.33,84.66,55.05,50.22,Fertilizer use optimization
+United States,North America,Wheat,78.88,85.97,59.51,80.74,35.92,37.92,Irrigation expansion
+United States,North America,Rice,74.37,61.23,67.4,76.49,66.7,41.1,Expansion of harvested area
+United States,North America,Maize,78.4,87.42,76.81,90.91,60.99,42.62,Mechanization and farm machinery
+United States,North America,Soybean,91.27,47.11,88.54,68.4,50.72,52.72,Expansion of harvested area
+United States,North America,Sugarcane,78.51,83.22,87.61,73.22,66.44,60.45,AI-based crop advisory adoption
+United States,North America,Cotton,81.3,69.66,76.54,90.49,43.44,59.55,Fertilizer use optimization
+United States,North America,Potato,65.44,77.72,78.95,69.26,80.99,53.63,Government support and procurement policy
+United States,North America,Barley,59.7,71.85,89.21,73.5,80.72,57.85,Government support and procurement policy
+United States,North America,Sorghum,73.88,66.39,73.2,74.23,38.71,64.72,Mechanization and farm machinery
+United States,North America,Millet,77.45,78.73,57.57,71.49,48.11,62.31,AI-based crop advisory adoption
+United States,North America,Pulses,82.49,88.37,78.42,94.49,41.42,55.6,Mechanization and farm machinery
+United States,North America,Groundnut,64.68,82.63,80.04,77.95,37.61,59.61,Fertilizer use optimization
+Canada,North America,Wheat,69.19,71.48,84.04,76.66,44.46,53.26,Irrigation expansion
+Canada,North America,Rice,75.42,64.83,85.21,66.95,74.72,48.06,AI-based crop advisory adoption
+Canada,North America,Maize,91.32,74.83,72.38,95.33,47.59,55.88,Better pest and disease control
+Canada,North America,Soybean,70.36,82.38,67.53,95.73,70.76,46.15,Climate-suitable growing conditions
+Canada,North America,Sugarcane,66.04,61.73,81.72,87.91,56.06,37.36,Irrigation expansion
+Canada,North America,Cotton,76.38,71.25,75.44,79.84,62.76,61.6,Improved seed varieties
+Canada,North America,Potato,78.97,57.43,66.9,81.18,51.11,61.56,Climate-suitable growing conditions
+Canada,North America,Barley,76.05,59.36,79.06,91.55,44.87,53.81,Better pest and disease control
+Canada,North America,Sorghum,79.96,86.71,77.54,87.59,85.97,53.62,Government support and procurement policy
+Canada,North America,Millet,67.57,52.71,70.11,76.05,68.17,49.92,Government support and procurement policy
+Canada,North America,Pulses,77.0,74.52,79.75,55.76,60.15,38.04,Government support and procurement policy
+Canada,North America,Groundnut,85.56,76.62,65.21,80.18,33.56,55.8,AI-based crop advisory adoption
+Mexico,North America,Wheat,85.77,68.27,79.17,76.51,34.01,56.55,Better pest and disease control
+Mexico,North America,Rice,73.42,57.76,71.69,73.49,77.25,56.07,Climate-suitable growing conditions
+Mexico,North America,Maize,67.81,63.91,73.66,89.09,44.3,45.17,Precision agriculture and satellite monitoring
+Mexico,North America,Soybean,81.21,63.79,83.48,64.15,36.06,54.87,Government support and procurement policy
+Mexico,North America,Sugarcane,80.75,65.05,61.71,79.1,73.23,58.95,Improved seed varieties
+Mexico,North America,Cotton,67.41,78.26,78.01,69.69,40.14,55.15,Irrigation expansion
+Mexico,North America,Potato,70.38,67.91,61.72,89.37,36.96,38.13,Better pest and disease control
+Mexico,North America,Barley,69.5,68.89,77.44,83.84,54.38,46.9,Precision agriculture and satellite monitoring
+Mexico,North America,Sorghum,75.98,78.82,66.32,84.9,62.49,49.23,Irrigation expansion
+Mexico,North America,Millet,83.47,73.07,79.76,78.78,63.96,54.96,AI-based crop advisory adoption
+Mexico,North America,Pulses,72.86,59.89,80.2,82.19,71.65,31.9,Better pest and disease control
+Mexico,North America,Groundnut,85.32,68.0,79.5,70.17,70.86,54.39,Improved seed varieties
+Brazil,South America,Wheat,76.87,60.84,53.91,67.29,53.52,19.34,Irrigation expansion
+Brazil,South America,Rice,57.88,44.6,59.61,64.93,5.53,43.58,Fertilizer use optimization
+Brazil,South America,Maize,71.13,63.97,68.49,58.4,28.33,34.08,Climate-suitable growing conditions
+Brazil,South America,Soybean,67.99,47.21,49.67,73.07,46.32,26.68,Mechanization and farm machinery
+Brazil,South America,Sugarcane,66.19,43.79,56.89,59.04,39.89,37.28,Irrigation expansion
+Brazil,South America,Cotton,57.96,57.92,73.1,64.74,42.63,36.79,Fertilizer use optimization
+Brazil,South America,Potato,41.0,45.49,46.06,64.12,64.07,37.64,Precision agriculture and satellite monitoring
+Brazil,South America,Barley,60.22,64.71,58.26,53.43,48.71,19.88,Improved seed varieties
+Brazil,South America,Sorghum,59.06,52.92,47.55,76.75,52.65,28.23,Fertilizer use optimization
+Brazil,South America,Millet,66.98,60.75,51.28,88.56,23.16,34.49,Mechanization and farm machinery
+Brazil,South America,Pulses,81.74,52.59,44.76,60.39,59.46,27.56,Improved seed varieties
+Brazil,South America,Groundnut,64.98,59.13,68.45,64.41,58.87,27.66,AI-based crop advisory adoption
+Argentina,South America,Wheat,58.81,59.07,53.54,70.84,50.92,41.87,Improved seed varieties
+Argentina,South America,Rice,45.54,67.77,78.45,59.19,52.82,34.65,Mechanization and farm machinery
+Argentina,South America,Maize,64.9,33.92,51.36,55.44,49.31,34.67,AI-based crop advisory adoption
+Argentina,South America,Soybean,86.89,44.15,63.37,76.57,40.27,36.04,AI-based crop advisory adoption
+Argentina,South America,Sugarcane,63.33,49.29,53.37,66.71,42.21,25.04,Better pest and disease control
+Argentina,South America,Cotton,76.26,62.47,47.2,63.69,27.78,43.94,AI-based crop advisory adoption
+Argentina,South America,Potato,60.19,44.94,67.79,58.33,51.38,44.25,Improved seed varieties
+Argentina,South America,Barley,61.05,48.89,53.81,73.63,57.65,42.12,Irrigation expansion
+Argentina,South America,Sorghum,67.09,36.14,78.47,52.13,71.86,38.69,Government support and procurement policy
+Argentina,South America,Millet,61.14,49.8,53.56,62.38,88.71,44.19,Irrigation expansion
+Argentina,South America,Pulses,68.54,48.27,55.75,48.15,48.87,34.67,Precision agriculture and satellite monitoring
+Argentina,South America,Groundnut,62.01,54.85,61.28,54.23,59.98,34.78,Improved seed varieties
+Chile,South America,Wheat,64.6,53.96,68.76,65.21,69.27,34.91,Mechanization and farm machinery
+Chile,South America,Rice,50.29,53.26,58.83,62.46,44.79,24.86,AI-based crop advisory adoption
+Chile,South America,Maize,61.46,49.79,57.71,50.43,15.38,34.22,Government support and procurement policy
+Chile,South America,Soybean,54.94,60.92,40.96,64.36,43.75,33.48,Improved seed varieties
+Chile,South America,Sugarcane,77.35,48.27,70.36,67.07,32.39,38.5,Government support and procurement policy
+Chile,South America,Cotton,62.78,71.93,51.69,61.85,38.43,41.63,AI-based crop advisory adoption
+Chile,South America,Potato,65.74,49.96,61.16,60.92,35.08,32.9,Expansion of harvested area
+Chile,South America,Barley,66.89,45.16,47.16,73.19,59.81,36.83,Better pest and disease control
+Chile,South America,Sorghum,58.67,43.99,51.87,61.94,39.51,33.62,Improved seed varieties
+Chile,South America,Millet,49.1,52.1,46.72,48.85,35.48,39.37,Irrigation expansion
+Chile,South America,Pulses,56.48,52.44,63.42,73.8,63.75,34.61,Improved seed varieties
+Chile,South America,Groundnut,60.54,53.37,50.64,74.78,61.15,35.78,Precision agriculture and satellite monitoring
+Peru,South America,Wheat,63.9,39.18,49.44,48.75,27.46,28.46,Precision agriculture and satellite monitoring
+Peru,South America,Rice,73.37,54.9,53.12,67.6,58.53,24.48,Expansion of harvested area
+Peru,South America,Maize,63.44,60.71,57.06,63.22,26.36,45.74,Government support and procurement policy
+Peru,South America,Soybean,67.62,57.94,40.58,72.89,58.06,38.7,AI-based crop advisory adoption
+Peru,South America,Sugarcane,59.85,65.0,69.45,75.63,35.92,29.03,Fertilizer use optimization
+Peru,South America,Cotton,68.83,55.84,42.14,45.9,43.09,33.08,Mechanization and farm machinery
+Peru,South America,Potato,86.45,45.81,59.8,64.25,54.53,27.39,Mechanization and farm machinery
+Peru,South America,Barley,62.47,55.43,71.87,60.43,50.52,27.4,Expansion of harvested area
+Peru,South America,Sorghum,56.67,50.61,67.57,78.08,58.94,40.25,Better pest and disease control
+Peru,South America,Millet,58.97,55.71,61.99,69.21,62.19,31.85,Mechanization and farm machinery
+Peru,South America,Pulses,45.62,55.97,61.79,55.51,43.68,38.27,AI-based crop advisory adoption
+Peru,South America,Groundnut,58.46,41.08,44.06,74.51,60.64,38.99,Improved seed varieties
+Colombia,South America,Wheat,68.79,47.73,60.75,61.6,68.16,34.4,Irrigation expansion
+Colombia,South America,Rice,62.44,65.1,59.56,59.86,36.07,27.79,Government support and procurement policy
+Colombia,South America,Maize,70.49,47.28,55.72,61.35,59.23,27.4,Better pest and disease control
+Colombia,South America,Soybean,60.28,57.14,52.3,66.39,35.85,32.75,Irrigation expansion
+Colombia,South America,Sugarcane,79.9,60.29,78.88,58.6,61.56,21.2,Improved seed varieties
+Colombia,South America,Cotton,66.51,49.89,59.48,56.5,76.56,32.94,Mechanization and farm machinery
+Colombia,South America,Potato,63.35,64.72,77.85,71.05,59.24,27.44,Expansion of harvested area
+Colombia,South America,Barley,64.09,49.87,68.47,55.98,29.97,42.03,Irrigation expansion
+Colombia,South America,Sorghum,60.61,58.13,53.21,52.73,56.64,18.11,Irrigation expansion
+Colombia,South America,Millet,65.34,66.01,51.62,60.69,41.71,51.97,Precision agriculture and satellite monitoring
+Colombia,South America,Pulses,78.55,31.37,60.55,64.36,31.44,41.95,Expansion of harvested area
+Colombia,South America,Groundnut,54.95,44.14,61.14,55.98,65.53,33.92,Precision agriculture and satellite monitoring
+Paraguay,South America,Wheat,58.41,46.23,52.02,83.17,43.36,26.69,Fertilizer use optimization
+Paraguay,South America,Rice,69.22,63.43,45.17,69.85,43.24,23.69,Irrigation expansion
+Paraguay,South America,Maize,60.04,54.34,50.3,72.33,46.89,26.32,Climate-suitable growing conditions
+Paraguay,South America,Soybean,65.57,67.16,64.65,75.27,53.65,26.3,Government support and procurement policy
+Paraguay,South America,Sugarcane,68.2,44.2,60.51,56.95,59.89,26.64,Mechanization and farm machinery
+Paraguay,South America,Cotton,72.53,41.75,53.27,62.48,46.69,34.62,AI-based crop advisory adoption
+Paraguay,South America,Potato,65.65,53.2,53.66,74.29,43.22,30.11,Climate-suitable growing conditions
+Paraguay,South America,Barley,68.24,30.9,56.29,59.2,49.69,32.69,Better pest and disease control
+Paraguay,South America,Sorghum,66.08,42.47,58.72,78.36,77.41,44.55,Mechanization and farm machinery
+Paraguay,South America,Millet,57.66,55.93,69.74,61.88,34.73,43.03,Expansion of harvested area
+Paraguay,South America,Pulses,47.34,44.73,53.72,46.84,32.19,35.7,Precision agriculture and satellite monitoring
+Paraguay,South America,Groundnut,62.01,61.22,58.15,57.97,49.83,45.16,AI-based crop advisory adoption
+Egypt,Africa,Wheat,43.59,34.52,32.42,41.73,35.28,13.38,Climate-suitable growing conditions
+Egypt,Africa,Rice,44.44,29.27,30.99,40.04,29.86,12.27,Irrigation expansion
+Egypt,Africa,Maize,38.78,24.19,30.67,43.51,26.22,12.53,Fertilizer use optimization
+Egypt,Africa,Soybean,41.86,56.19,25.84,39.69,40.6,5.49,Irrigation expansion
+Egypt,Africa,Sugarcane,38.3,33.76,28.7,40.46,5.0,19.86,Government support and procurement policy
+Egypt,Africa,Cotton,39.65,15.48,42.73,34.71,16.86,10.45,AI-based crop advisory adoption
+Egypt,Africa,Potato,36.67,31.43,29.65,23.62,27.73,6.27,Better pest and disease control
+Egypt,Africa,Barley,42.41,30.2,23.96,32.8,46.15,18.22,Climate-suitable growing conditions
+Egypt,Africa,Sorghum,49.41,28.36,41.37,34.52,30.86,19.94,Improved seed varieties
+Egypt,Africa,Millet,44.56,13.08,28.83,44.02,35.59,0.0,AI-based crop advisory adoption
+Egypt,Africa,Pulses,30.18,12.17,32.25,32.35,33.92,10.05,Government support and procurement policy
+Egypt,Africa,Groundnut,41.3,41.91,33.35,52.89,36.62,2.23,Government support and procurement policy
+Nigeria,Africa,Wheat,29.81,28.14,38.3,30.32,25.2,7.19,Improved seed varieties
+Nigeria,Africa,Rice,43.85,29.23,18.02,30.8,39.93,15.85,Irrigation expansion
+Nigeria,Africa,Maize,18.13,26.32,21.9,41.88,5.0,17.33,Precision agriculture and satellite monitoring
+Nigeria,Africa,Soybean,58.75,22.9,47.42,48.85,13.89,5.57,Precision agriculture and satellite monitoring
+Nigeria,Africa,Sugarcane,44.2,50.86,29.44,27.22,26.63,0.66,Better pest and disease control
+Nigeria,Africa,Cotton,42.28,37.99,40.07,51.99,21.22,31.83,Improved seed varieties
+Nigeria,Africa,Potato,25.77,31.77,28.24,38.68,21.41,0.0,Government support and procurement policy
+Nigeria,Africa,Barley,47.32,28.21,7.66,39.61,28.27,8.19,Mechanization and farm machinery
+Nigeria,Africa,Sorghum,49.15,34.63,21.93,35.45,17.44,28.55,Irrigation expansion
+Nigeria,Africa,Millet,41.07,20.78,27.8,40.49,16.44,25.04,Government support and procurement policy
+Nigeria,Africa,Pulses,44.05,39.55,32.53,44.74,40.85,3.99,Precision agriculture and satellite monitoring
+Nigeria,Africa,Groundnut,29.6,26.93,17.32,36.06,21.69,9.88,Government support and procurement policy
+Ethiopia,Africa,Wheat,39.14,32.76,22.56,33.07,13.33,1.45,Irrigation expansion
+Ethiopia,Africa,Rice,38.66,45.03,46.15,35.49,5.0,19.64,AI-based crop advisory adoption
+Ethiopia,Africa,Maize,54.16,33.87,39.93,51.41,24.24,18.02,Government support and procurement policy
+Ethiopia,Africa,Soybean,40.32,43.0,15.37,41.07,30.94,15.12,Expansion of harvested area
+Ethiopia,Africa,Sugarcane,29.56,22.96,32.63,34.72,5.0,9.63,Climate-suitable growing conditions
+Ethiopia,Africa,Cotton,42.68,39.41,34.18,30.89,5.0,21.69,Irrigation expansion
+Ethiopia,Africa,Potato,54.02,36.17,46.28,43.83,35.91,8.48,Expansion of harvested area
+Ethiopia,Africa,Barley,48.51,26.84,20.51,49.87,27.42,13.37,Expansion of harvested area
+Ethiopia,Africa,Sorghum,35.56,38.62,44.09,52.97,13.04,5.63,Climate-suitable growing conditions
+Ethiopia,Africa,Millet,52.28,30.37,30.57,43.0,36.88,7.9,Precision agriculture and satellite monitoring
+Ethiopia,Africa,Pulses,49.32,25.6,37.16,44.97,6.42,28.49,Expansion of harvested area
+Ethiopia,Africa,Groundnut,43.01,37.37,35.84,29.05,10.65,14.77,Fertilizer use optimization
+South Africa,Africa,Wheat,27.46,46.39,29.83,30.65,16.96,9.85,Irrigation expansion
+South Africa,Africa,Rice,42.15,8.69,21.23,62.56,28.5,20.15,Better pest and disease control
+South Africa,Africa,Maize,50.43,41.5,26.33,47.78,14.76,3.52,Expansion of harvested area
+South Africa,Africa,Soybean,32.4,25.1,32.77,40.12,63.05,18.81,Improved seed varieties
+South Africa,Africa,Sugarcane,45.21,31.98,30.84,34.09,10.14,2.16,Better pest and disease control
+South Africa,Africa,Cotton,27.16,48.25,33.83,51.81,57.51,13.82,Climate-suitable growing conditions
+South Africa,Africa,Potato,51.35,23.15,34.21,36.45,7.58,5.76,Better pest and disease control
+South Africa,Africa,Barley,40.73,35.45,36.57,50.9,37.89,13.78,Expansion of harvested area
+South Africa,Africa,Sorghum,55.19,22.8,29.07,38.13,26.38,6.1,Irrigation expansion
+South Africa,Africa,Millet,39.76,22.22,22.6,42.78,38.27,12.37,AI-based crop advisory adoption
+South Africa,Africa,Pulses,41.17,47.08,36.59,59.46,27.66,24.51,Mechanization and farm machinery
+South Africa,Africa,Groundnut,45.9,49.58,31.48,28.49,31.37,11.97,Fertilizer use optimization
+Kenya,Africa,Wheat,31.46,15.12,27.81,39.29,5.0,21.65,Improved seed varieties
+Kenya,Africa,Rice,48.21,23.07,45.63,38.78,37.69,16.1,Irrigation expansion
+Kenya,Africa,Maize,48.07,33.75,31.93,29.39,53.11,14.45,Government support and procurement policy
+Kenya,Africa,Soybean,34.45,46.28,31.19,38.77,19.18,20.75,Climate-suitable growing conditions
+Kenya,Africa,Sugarcane,48.62,30.28,44.01,16.87,5.0,10.21,Improved seed varieties
+Kenya,Africa,Cotton,38.3,27.79,42.81,36.79,17.99,7.73,Government support and procurement policy
+Kenya,Africa,Potato,40.42,29.54,23.48,42.17,51.79,11.19,Irrigation expansion
+Kenya,Africa,Barley,34.6,31.68,33.87,52.22,29.68,9.63,AI-based crop advisory adoption
+Kenya,Africa,Sorghum,52.76,47.42,46.7,38.6,5.54,2.56,Precision agriculture and satellite monitoring
+Kenya,Africa,Millet,46.8,33.47,33.47,44.6,24.74,21.4,AI-based crop advisory adoption
+Kenya,Africa,Pulses,52.5,22.29,25.46,48.17,6.67,17.83,Better pest and disease control
+Kenya,Africa,Groundnut,31.9,24.51,16.48,45.4,48.99,5.67,Improved seed varieties
+Morocco,Africa,Wheat,26.81,29.68,28.59,33.85,45.44,18.59,Improved seed varieties
+Morocco,Africa,Rice,17.89,25.39,40.21,37.85,33.77,26.41,Better pest and disease control
+Morocco,Africa,Maize,47.23,21.67,43.17,52.86,49.59,14.79,AI-based crop advisory adoption
+Morocco,Africa,Soybean,37.85,43.27,28.04,27.18,23.75,7.79,Climate-suitable growing conditions
+Morocco,Africa,Sugarcane,55.83,30.69,26.54,40.57,29.93,5.31,Precision agriculture and satellite monitoring
+Morocco,Africa,Cotton,60.3,31.23,41.33,58.56,33.71,26.57,Government support and procurement policy
+Morocco,Africa,Potato,44.61,27.77,20.64,39.94,7.95,10.07,Expansion of harvested area
+Morocco,Africa,Barley,43.73,23.04,21.26,45.82,5.0,8.42,AI-based crop advisory adoption
+Morocco,Africa,Sorghum,36.85,33.99,36.09,18.68,5.0,8.86,Expansion of harvested area
+Morocco,Africa,Millet,52.88,31.49,37.28,37.45,10.48,11.52,Expansion of harvested area
+Morocco,Africa,Pulses,50.31,32.78,30.06,37.17,54.39,13.32,Precision agriculture and satellite monitoring
+Morocco,Africa,Groundnut,46.39,33.64,24.99,42.25,22.09,9.83,Expansion of harvested area
+Sudan,Africa,Wheat,43.26,48.66,29.99,34.61,18.56,10.26,Fertilizer use optimization
+Sudan,Africa,Rice,37.03,38.86,33.96,34.1,41.42,8.97,AI-based crop advisory adoption
+Sudan,Africa,Maize,43.78,30.56,39.42,35.96,18.28,1.02,AI-based crop advisory adoption
+Sudan,Africa,Soybean,47.06,30.1,30.36,33.65,22.82,19.82,Government support and procurement policy
+Sudan,Africa,Sugarcane,41.18,38.97,28.4,44.3,36.51,8.42,Expansion of harvested area
+Sudan,Africa,Cotton,35.03,17.04,39.34,30.78,7.89,16.42,AI-based crop advisory adoption
+Sudan,Africa,Potato,41.11,34.15,33.22,36.57,7.78,2.53,Climate-suitable growing conditions
+Sudan,Africa,Barley,45.89,33.72,25.72,35.74,34.29,12.13,Climate-suitable growing conditions
+Sudan,Africa,Sorghum,47.68,32.34,44.43,44.51,45.61,0.0,Irrigation expansion
+Sudan,Africa,Millet,56.77,26.28,27.69,41.34,5.0,2.92,Government support and procurement policy
+Sudan,Africa,Pulses,37.34,32.9,45.77,43.74,26.74,0.0,Fertilizer use optimization
+Sudan,Africa,Groundnut,35.53,17.39,22.94,36.96,5.0,0.0,Expansion of harvested area
+Ghana,Africa,Wheat,46.83,40.49,33.21,35.34,47.08,5.61,Government support and procurement policy
+Ghana,Africa,Rice,40.47,28.38,51.02,43.29,31.48,3.39,AI-based crop advisory adoption
+Ghana,Africa,Maize,54.76,30.1,38.91,49.86,5.0,9.04,AI-based crop advisory adoption
+Ghana,Africa,Soybean,50.6,44.03,25.66,64.04,37.72,11.33,Irrigation expansion
+Ghana,Africa,Sugarcane,36.56,24.37,24.24,43.59,18.92,2.14,Precision agriculture and satellite monitoring
+Ghana,Africa,Cotton,44.57,43.98,18.62,40.19,30.61,12.63,Irrigation expansion
+Ghana,Africa,Potato,42.97,26.77,31.35,54.8,42.62,0.23,Expansion of harvested area
+Ghana,Africa,Barley,36.79,40.92,21.57,39.27,49.82,16.44,Improved seed varieties
+Ghana,Africa,Sorghum,46.68,18.19,30.9,50.09,11.28,4.84,Improved seed varieties
+Ghana,Africa,Millet,62.97,27.66,30.08,51.35,34.59,10.48,Government support and procurement policy
+Ghana,Africa,Pulses,44.54,26.2,25.39,40.04,21.74,10.8,Improved seed varieties
+Ghana,Africa,Groundnut,50.11,42.55,37.87,44.62,41.98,18.7,Government support and procurement policy
