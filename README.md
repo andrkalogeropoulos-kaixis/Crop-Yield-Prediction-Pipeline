@@ -65,6 +65,9 @@ This project focuses on **leakage-free feature engineering**, **dimensionality r
 
 ## 🔍 Explainable AI (XAI) & Interpretability
 
+### Global Interpretability (SHAP Summary Plot)
+![SHAP Summary Plot](images/shap_summary.png)
+
 Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled to verify agronomic validity:
 
 * **Macro Baselines:** `crop_name_encoded` drives ~90% of split importance (establishing biological yield ceilings e.g., potatoes vs. grains), followed by `region_encoded` (local infrastructure & soil capabilities).
