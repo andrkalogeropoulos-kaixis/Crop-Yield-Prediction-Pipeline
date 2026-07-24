@@ -79,11 +79,20 @@ Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled
 
 ---
 
-## 📁 Repository Structure
-
 ```text
 .
 ├── global_food_production_dataset.csv   # Cleaned master dataset
 ├── crop_yield_forecasting.ipynb        # Complete end-to-end Kaggle Notebook
 ├── README.md                            # Project documentation
 └── requirements.txt                     # Project dependencies
+
+
+## 🛠️ Tech Stack & Libraries
+
+* **Language:** Python (v3.10+)
+* **ML Frameworks & Modeling:** Scikit-Learn, XGBoost
+* **Feature Engineering & Preprocessing:** Category Encoders (`TargetEncoder`), PCA, K-Means Clustering
+* **Explainable AI (XAI):** SHAP (`shap.TreeExplainer`)
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+
+## 📁 Repository Structure
