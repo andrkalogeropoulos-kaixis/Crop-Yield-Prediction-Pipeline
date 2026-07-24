@@ -79,15 +79,6 @@ Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled
 
 ---
 
-```text
-.
-├── global_food_production_dataset.csv   # Cleaned master dataset
-├── crop_yield_forecasting.ipynb        # Complete end-to-end Kaggle Notebook
-├── README.md                            # Project documentation
-└── requirements.txt                     # Project dependencies
-
-## 📁 Repository Structure
-
 ## 🛠️ Tech Stack & Libraries
 
 * **Language:** Python (v3.10+)
