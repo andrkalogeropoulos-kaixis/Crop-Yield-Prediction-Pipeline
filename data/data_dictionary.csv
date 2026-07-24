@@ -1,0 +1,28 @@
+column_name,data_type,description
+year,int,Calendar year from 1961 to 2050
+country,string,Country name
+region,string,World region
+crop_name,string,"Crop name such as Wheat, Rice, Maize, Soybean"
+production_tonnes,float,Estimated crop production in tonnes
+harvested_area_hectares,float,Estimated harvested area in hectares
+yield_kg_per_hectare,float,Estimated yield productivity per hectare
+production_growth_percent,float,Estimated yearly production growth percentage
+food_security_score,float,Synthetic score estimating crop-food stability
+crop_climate_risk_score,float,Synthetic climate risk score for crop production
+reason_for_production_increase,string,Main production growth driver
+global_production_rank,int,Global production rank for crop-year
+regional_production_rank,int,Regional production rank for crop-year
+avg_temperature_c,float,Average annual temperature
+rainfall_mm,float,Annual rainfall
+drought_index,float,Drought risk index from 0 to 1
+flood_risk_score,float,Flood risk score from 0 to 1
+heatwave_days,int,Estimated number of heatwave days
+soil_moisture_percent,float,Estimated soil moisture percentage
+irrigation_index,float,Synthetic irrigation development index
+fertilizer_use_index,float,Synthetic fertilizer use index
+mechanization_index,float,Synthetic farm mechanization index
+improved_seed_usage_percent,float,Estimated improved seed usage percentage
+ai_agriculture_adoption_index,float,Synthetic AI/precision agriculture adoption index
+forecast_2030_tonnes,float,Forecasted production for 2030
+forecast_2040_tonnes,float,Forecasted production for 2040
+forecast_2050_tonnes,float,Forecasted production for 2050
