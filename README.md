@@ -74,6 +74,9 @@ Using **SHAP (SHapley Additive exPlanations)**, model predictions were decoupled
 * **Temporal Trends:** The `year` feature captures long-term technology and breeding advancements (+7,000 kg/ha boost for post-2025 projections).
 * **Micro-Climate Tuning:** PCA weather features and climate risk levels act as fine-tuning adjustments, modifying final yields by a few hundred kg/ha based on extreme annual heat/moisture shifts.
 
+### Local Interpretation (SHAP Waterfall Plot for Year 2033)
+![SHAP Waterfall Plot](images/shap_waterfall.png)
+
 ---
 
 ## 📁 Repository Structure
